@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+<div style="position: relative; text-align: center;">
+  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" style="position: absolute; top: 40px; left: 21%; transform: translateX(-50%); width: 30px;">
 </div>
-
-<img src="github-header-Heicha.png" alt="Banner" style="width: 100%;">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heichapozo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pozoheicha/profilecard/?igsh=eGdueWg5Z3RkYXJy)
