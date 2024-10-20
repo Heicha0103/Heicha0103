@@ -1,12 +1,5 @@
-<!-- <div style="position: relative; text-align: center;">
+<div style="position: relative; text-align: center;">
   <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" style="position: absolute; top: 50px; left: 21%; transform: translateX(-60%); width: 30px;">
-</div> -->
-
-<div style="position: relative; width: 100%; text-align: center;">
-  <img src="github-header.png" alt="Banner" style="width: 100%; display: block;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
-       alt="Hi" 
-       style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 50px;">
 </div>
 
 
