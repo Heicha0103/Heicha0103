@@ -9,7 +9,7 @@
   <!-- GIF superpuesto sobre el banner -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
        alt="Hi" 
-       style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 30px;">
+       style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%); width: 30px;">
 </div>
 
 
