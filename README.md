@@ -1,5 +1,7 @@
 <div style="position: relative; text-align: center;">
-  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" style="position: relative; top: -80px; left: -26%; transform: translateX(-60%); width: 30px;">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" style="position: relative; top: 80px; left:-33%; transform: translateX(60%); width: 30px;">
+  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;">
+  
 </div>
 
 
