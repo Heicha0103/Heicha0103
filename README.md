@@ -31,5 +31,4 @@ Trained in the maintenance, improvement and customization of software systems, w
 ## Statistics 📊 
 
 ![Heicha Pozo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heicha0103&show_icons=true&theme=cobalt)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heicha0103&layout=compact&theme=cobalt)
