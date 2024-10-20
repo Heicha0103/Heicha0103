@@ -1,8 +1,9 @@
 
 <div style="position: relative; text-align: center;">
-  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
-       alt="Hi" 
-       style="position: absolute; top: 50px; left: 21%; transform: translateX(-60%); width: 30px;">
+  <img src="github-header.png" alt="Banner" style="width: 100%;">
+  <marquee behavior="alternate" direction="left" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 30px;">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="30px">
+  </marquee>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heichapozo)
