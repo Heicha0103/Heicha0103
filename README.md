@@ -1,10 +1,18 @@
+<!-- <div style="position: relative; text-align: center;">
+  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" style="position: absolute; top: 50px; left: 21%; transform: translateX(-60%); width: 30px;">
+</div> -->
 
 <div style="position: relative; text-align: center;">
+  <!-- Imagen del banner -->
   <img src="github-header.png" alt="Banner" style="width: 100%;">
-  <marquee behavior="alternate" direction="left" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 30px;">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="30px">
-  </marquee>
+
+  <!-- GIF superpuesto sobre el banner -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
+       alt="Hi" 
+       style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 30px;">
 </div>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heichapozo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pozoheicha/profilecard/?igsh=eGdueWg5Z3RkYXJy)
