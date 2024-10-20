@@ -1,9 +1,9 @@
 <div id="header" align="center">
-<img src="github-header-Heicha.png" alt="Banner" style="width: 100%;">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200" style="position: relative; top: 80px; left:-34%; transform: translateX(60%); width: 7%;"/>
+  
 </div>
 <div style="position: relative; text-align: center;">
-  
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200" style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 30px;"/>
+  <img src="github-header-Heicha.png" alt="Banner" style="width: 100%;">
 </div>
 
 
